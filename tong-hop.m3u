@@ -410,19 +410,9 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tvri-sport.png" group-title="XemTV",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/spor-smart1.png" group-title="XemTV",SporSmart
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport.png" group-title="XemTV",Euro Sport
-https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport2.png" group-title="XemTV",Euro Sport 2
 https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/intertv.png" group-title="XemTV",INTERTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn3.png" group-title="XemTV",ESPN3
-https://fl7.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn5.png" group-title="XemTV",ESPN5
-http://fl7.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn6.png" group-title="XemTV",ESPN6
-https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn-news.png" group-title="XemTV",ESPN News
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nbcsports.jpg" group-title="XemTV",NBC Sports
