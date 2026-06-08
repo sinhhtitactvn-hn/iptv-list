@@ -413,48 +413,20 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/intertv.png" group-title="XemTV",INTERTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn-news.png" group-title="XemTV",ESPN News
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nbcsports.jpg" group-title="XemTV",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nba.jpg" group-title="XemTV",NBA Sports
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onegolf.png" group-title="XemTV",Onegolf TV
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/billiardtv.png" group-title="XemTV",Billiard TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/setanta1.png" group-title="XemTV",Watch live Setanta Sports 1
-https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/setanta2.png" group-title="XemTV",Setanta Sports 2
-https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/setanta-plus.png" group-title="XemTV",Setanta Sports +
-https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/spor-smart1.png" group-title="XemTV",SporSmart
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/spor-smart2.png" group-title="XemTV",SporSmart 2
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport.png" group-title="XemTV",Euro Sport
-https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/eurosport2.png" group-title="XemTV",Euro Sport 2
-https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/mutv.png" group-title="XemTV",MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/intertv.png" group-title="XemTV",INTERTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn3.png" group-title="XemTV",ESPN3
-https://fl7.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn5.png" group-title="XemTV",ESPN5
-http://fl7.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn6.png" group-title="XemTV",ESPN6
-https://super-cdn.link/espn6/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/espn-news.png" group-title="XemTV",ESPN News
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nbcsports.jpg" group-title="XemTV",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nba.jpg" group-title="XemTV",NBA Sports
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onegolf.png" group-title="XemTV",Onegolf TV
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/billiardtv.png" group-title="XemTV",Billiard TV
