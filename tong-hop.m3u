@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv1.png",VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv2.png",VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv3.png",VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv4.png",VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv5.png",VTV5
-https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv7.png",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv8.png",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://hd.xemtv.net/image/vtv10.png",VTV 10
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/antv.png",ANTV
@@ -33,8 +19,6 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/htv4.png",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/htv9.png",HTV9
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vinhlong1.png",THVL1 HD
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vinhlong2.png",THVL2 HD
@@ -111,8 +95,6 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/quangninh3.png",QTV3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/thainguyen.png",TN1
-https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/thtpct1.png",CầnThơ
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/tuyenquang.png",TTV
@@ -133,8 +115,6 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/viegiaitri.png",VTVCab1 Vie Giải trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/phimviet.png",VTVCab2 Phim Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtvcab4.jpg",VTVcab4 On Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtvcab5.png",VTVCab5 Echannel
@@ -159,8 +139,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/btv9.png",HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://vn.xemtv.net/image/boxhits.png",RakutenTV
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/2_fd5dc799.jpg",SCTV2 (Today TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=201
@@ -179,8 +157,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/pbskids.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png",VOV1
-https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png",VOV2
 https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png",VOV3
@@ -189,20 +165,10 @@ https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4tn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png",VOV4 CENTRAL HIGHLANDS
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png",VOV4 MEKONG
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png",VOV4 SAIGON
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png",VOV WORLD SERVICE
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov247" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png",VOV ENGLISH SERVICE
-https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png",91FM HANOI
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png",91FM HCMC
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtmekong" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png",MEKONG FM90
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="VIỆT NAM" tvg-logo="https://byvn.net/vovgtduyenhai",DUYEN HAI FM91.5
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96-zuuFTogPk5nu4EprYtOCaCt5_JdpPNpe57O9RrvfV9eB7CUCejNFgn9E1s-EUPDgE&usqp=CAU",TUYEN QUANG RADIO (FM95.6MHz)
@@ -221,8 +187,6 @@ http://14.162.146.90:8000/HANOI90
 http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/21VaHPT.png",THP GENERAL SERVICE FM93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/pEFj2vE.png",THP TRAFFIC SERVICE FM102.2
-https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-c-k-c0x00ffffff-no-rj",HUNG YEN RADIO (FM92.7MHz)
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
@@ -243,34 +207,10 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)
 https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
-#EXTINF:-1 group-title="VIỆT NAM",CAN THO (FM97.3MHz)
-https://live.canthotv.vn/live/radio/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",AN GIANG RADIO (FM 93.1 and 99.4MHz)
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",CA MAU FM (FM94.6MHz)
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",ZingRadio 1 - Vpop
-https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",ZingRadio 2 - Chạm FM
-https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg",ZingRadio 3 - Kpop
-https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg",ZingRadio 4 - USUK
-https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg",ZingRadio 5 - CPop
-https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg",ZingRadio 6 - EDM
-https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",ZingRadio 7 - Acoustic
-https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg",ZingRadio 8 - Bolero
-https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg",ZingRadio 9 - Rap Việt
-https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg",ZingRadio 10 - Indie
-https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg",ZingRadio 11 - Thiếu Nhi
-https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/svztgcvwrjew.png",Scientific Sounds Asia
 http://carol.epichosts.co.uk:8270/live.mp3
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/kix.png",KIX TV
