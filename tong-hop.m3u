@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vtv8.png",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/antv.png",ANTV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/htv1.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/htv2.png",HTV2
@@ -183,8 +179,6 @@ https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",HUE (FM93MHz)
 https://live.huetv.com.vn/Radio-online/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM",DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
-https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM",GIA LAI FM (FM 93.7MHz, 97MHz & FM99.9MHz)
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="VIỆT NAM",DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
@@ -221,8 +215,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://vn.xemtv.net/image/kbs-korea.png",KBS
 https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/bravo.png",Bravo TV
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://vn.xemtv.net/image/cctv8.jpg",CCTV8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://vn.xemtv.net/image/cctv13.png",CCTV13
@@ -255,8 +247,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://vn.xemtv.net/image/asia.png",CNA Asia News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/voa-asia.png",VOA Asia
-https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/trt1.jpg",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="ẤN ĐỘ" tvg-logo="https://vn.xemtv.net/image/india-today.png",India Today
@@ -265,8 +255,6 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/yahoo-finance.png",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="TRIỀU TIÊN" tvg-logo="https://vn.xemtv.net/image/kctv.png",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://vn.xemtv.net/image/tbs.png",TBS TV
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 #EXTINF:-1 group-title="UGANDA" tvg-logo="https://vn.xemtv.net/image/nbs.png",NBS TV
@@ -295,8 +283,6 @@ https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/bek-sports.png",BEK Sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b1596000_slENG.m3u8
-#EXTINF:-1 group-title="MÔNG CỔ" tvg-logo="https://vn.xemtv.net/image/mnb-sport.png",MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/cbssports.png",CBS Sports Network
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="MỸ" tvg-logo="https://vn.xemtv.net/image/skysports-football.png",Sky Sports Football
@@ -307,8 +293,6 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://vn.xemtv.net/image/tvri-sport.png",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 group-title="THỔ NHĨ KỲ" tvg-logo="https://vn.xemtv.net/image/spor-smart1.png",SporSmart
-https://cors-proxy.cooks.fyi/http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="UKRAINE" tvg-logo="https://vn.xemtv.net/image/intertv.png",INTERTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://vn.xemtv.net/image/onegolf.png",Onegolf TV
